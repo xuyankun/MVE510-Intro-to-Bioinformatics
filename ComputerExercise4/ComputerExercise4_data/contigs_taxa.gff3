@@ -1,0 +1,23 @@
+##gff-version 3	
+NODE_11_length_240_cov_0.472393	taxator-tk	sequence_feature	1	240	0	.	.	rtaxname=marine g-proteobacterium HTCC2143
+NODE_16_length_97_cov_1.95	taxator-tk	sequence_feature	1	97	0	.	.	rtaxname=Guillardia theta
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	16183	17120	0	.	.	rtaxname=Pseudoalteromonas phage pYD6-A
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	17492	17670	0	.	.	rtaxname=Marinobacterium litorale
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	19614	20768	0	.	.	rtaxname=Salmonella phage FSL SP-058
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	22426	22506	0	.	.	rtaxname=Staphylococcus aureus
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	26232	27301	0	.	.	rtaxname=Salmonella phage FSL SP-076
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	27382	27564	0	.	.	rtaxname=Pseudomonas phage vB_PaeP_C2-10_Ab09
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	29847	30023	0	.	.	rtaxname=Bacillus cereus
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	3315	3353	0	.	.	rtaxname=Prevotella salivae
+NODE_1_length_31464_cov_25.774	taxator-tk	sequence_feature	9316	9378	0	.	.	rtaxname=Lachancea thermotolerans
+NODE_3_length_5990_cov_9.21884	taxator-tk	sequence_feature	2748	2911	0	.	.	rtaxname=Janthinobacterium sp. Marseille
+NODE_3_length_5990_cov_9.21884	taxator-tk	sequence_feature	3012	3183	0	.	.	rtaxname=Herbaspirillum massiliense
+NODE_3_length_5990_cov_9.21884	taxator-tk	sequence_feature	3683	3980	0	.	.	rtaxname=Herbaspirillum massiliense
+NODE_3_length_5990_cov_9.21884	taxator-tk	sequence_feature	5755	5983	0	.	.	rtaxname=Pseudomonas sp. S9
+NODE_3_length_5990_cov_9.21884	taxator-tk	sequence_feature	765	2640	0	.	.	rtaxname=Herbaspirillum massiliense
+NODE_5_length_2659_cov_8.84857	taxator-tk	sequence_feature	2452	2633	0	.	.	rtaxname=Polaromonas sp. CF318
+NODE_5_length_2659_cov_8.84857	taxator-tk	sequence_feature	355	1118	0	.	.	rtaxname=Methylobacillus flagellatus
+NODE_6_length_1656_cov_6.54402	taxator-tk	sequence_feature	286	330	0	.	.	rtaxname=Galdieria sulphuraria
+NODE_7_length_318_cov_6.78008	taxator-tk	sequence_feature	72	312	0	.	.	rtaxname=Pseudomonas fuscovaginae
+NODE_8_length_297_cov_0.436364	taxator-tk	sequence_feature	31	230	0	.	.	rtaxname=Paenibacillus sp. OSY-SE
+NODE_9_length_274_cov_0.730964	taxator-tk	sequence_feature	41	78	0	.	.	rtaxname=Paramecium tetraurelia

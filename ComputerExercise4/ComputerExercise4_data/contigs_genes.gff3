@@ -1,0 +1,21 @@
+##gff-version 3
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	5772	5970	.	-	.	ID=TIGR02381 cspD cold shock domain protein CspD
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	1958	2087	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	4085	4208	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	3641	3776	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	1484	1634	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	4994	5117	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	3200	3323	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	2732	2891	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	1133	1253	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	2390	2498	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_3_length_5990_cov_9.21884	TIGRFAM	protein_hmm_match	4511	4655	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_7_length_318_cov_6.78008	TIGRFAM	protein_hmm_match	88	286	.	+	.	ID=TIGR02381 cspD cold shock domain protein CspD
+NODE_5_length_2659_cov_8.84857	TIGRFAM	protein_hmm_match	2493	2574	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_5_length_2659_cov_8.84857	TIGRFAM	protein_hmm_match	2130	2271	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_5_length_2659_cov_8.84857	TIGRFAM	protein_hmm_match	909	1065	.	-	.	ID=TIGR01451 B_ant_repeat conserved repeat domain
+NODE_1_length_31464_cov_25.774	TIGRFAM	protein_hmm_match	880	1015	.	-	.	ID=TIGR04387 major capsid protein N4-gp56 family
+NODE_1_length_31464_cov_25.774	TIGRFAM	protein_hmm_match	1714	2068	.	-	.	ID=TIGR04387 major capsid protein N4-gp56 family
+NODE_1_length_31464_cov_25.774	TIGRFAM	protein_hmm_match	16201	17701	.	-	.	ID=TIGR04387 major capsid protein N4-gp56 family
+NODE_1_length_31464_cov_25.774	TIGRFAM	protein_hmm_match	23779	24337	.	-	.	ID=TIGR04387 major capsid protein N4-gp56 family
+NODE_2_length_9736_cov_5.54146	TIGRFAM	protein_hmm_match	6853	7183	.	-	.	ID=TIGR01641 phageSPP1_gp7 phage head morphogenesis protein SPP1 gp7 family
